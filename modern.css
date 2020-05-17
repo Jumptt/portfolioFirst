@@ -1,0 +1,29 @@
+
+.header{
+  height:300px;
+  background:url('7000008_articleimg_1.jpg');
+  background-size: cover;
+
+}
+.headerH1{
+  color:red;
+  transform:rotate(10deg);
+  padding-top:50px;
+  text-align: center;
+  display:none;
+}
+
+.headNav{
+  text-align: center;
+  display: inline-block;
+  border:white solid;
+  color:white;
+}
+#whatsEve , #aboutEve{
+  text-align: center;
+  color:white;
+  font-size: 50px;
+  padding-top: 70px;
+  background: url('simplebackground.jpeg');
+  background-size: cover;
+}
